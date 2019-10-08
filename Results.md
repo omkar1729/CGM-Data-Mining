@@ -117,4 +117,168 @@
   0.16808522  0.19077992  0.28535227  0.30670539  0.73122817]
 
 ***
+
 # Patient = 3
+0.5764831602076302
+['Slope_minmax' 'Mean_diff' 'Mean_after' 'PeakVal2_error' 'PeakHt2_error'
+ 'Max2_window' 'Max1_window' 'Var1_window' 'Var2_window' 'TimeDiff_minmax'
+ 'PeakHt1_error' 'PeakTime1_error' 'Mean1_window' 'PeakTime2_error'
+ 'Mean2_window' 'Max_fft' 'Var_fft' 'Min2_window' 'Min1_window'
+ 'PeakVal1_error' 'Mean_fft' 'Min_fft' 'Mean_before']
+[-0.69370758 -0.45208951 -0.11221865 -0.09107668 -0.06518115 -0.05522786
+ -0.05292953 -0.02664817 -0.02304986 -0.01913046 -0.01195472 -0.00649628
+ -0.00153063  0.00381172  0.00991645  0.0241146   0.02844188  0.04628541
+  0.06180803  0.09887291  0.25368375  0.29067576  0.33987086]
+0.16741113583661124
+['Mean_diff' 'Mean_after' 'TimeDiff_minmax' 'PeakTime2_error'
+ 'PeakTime1_error' 'PeakHt1_error' 'Var1_window' 'Var2_window'
+ 'PeakHt2_error' 'Min_fft' 'Max_fft' 'Var_fft' 'PeakVal1_error'
+ 'Max1_window' 'Mean1_window' 'Min1_window' 'Mean_fft' 'Min2_window'
+ 'Max2_window' 'PeakVal2_error' 'Mean2_window' 'Mean_before'
+ 'Slope_minmax']
+[-4.11056682e-01 -6.52391360e-02 -1.71300191e-02 -1.24437774e-02
+ -1.24064110e-02 -1.03258689e-02 -5.01586208e-03 -3.60337972e-03
+ -3.00201564e-04  5.20483054e-02  7.11817549e-02  1.04903343e-01
+  1.10557901e-01  1.74815030e-01  1.77789407e-01  1.80124465e-01
+  1.94962301e-01  2.35156246e-01  2.46360928e-01  2.67563836e-01
+  2.69378635e-01  3.45817546e-01  5.31661436e-01]
+0.11395702091323125
+['Min_fft' 'Slope_minmax' 'PeakHt2_error' 'PeakHt1_error' 'Mean_fft'
+ 'Var1_window' 'Var2_window' 'Mean_before' 'PeakTime2_error'
+ 'PeakTime1_error' 'Max1_window' 'TimeDiff_minmax' 'Max2_window'
+ 'Mean1_window' 'PeakVal2_error' 'Max_fft' 'Mean2_window' 'Min1_window'
+ 'Mean_after' 'Min2_window' 'Var_fft' 'Mean_diff' 'PeakVal1_error']
+[-0.32565701 -0.29246657 -0.18589895 -0.06856277 -0.06672907 -0.06062546
+ -0.04977819 -0.04379927 -0.00066501  0.00525583  0.00636283  0.03051195
+  0.07368253  0.11212952  0.13091032  0.17271235  0.21297175  0.23743053
+  0.2618638   0.29444572  0.29964503  0.30566307  0.50043994]
+0.10088853809913258
+['Min1_window' 'Max1_window' 'Mean1_window' 'Min2_window' 'Mean2_window'
+ 'Max2_window' 'PeakVal2_error' 'Mean_diff' 'PeakHt2_error'
+ 'PeakTime2_error' 'Var1_window' 'TimeDiff_minmax' 'Var2_window'
+ 'PeakTime1_error' 'Min_fft' 'PeakHt1_error' 'Max_fft' 'Mean_after'
+ 'Mean_fft' 'Mean_before' 'Var_fft' 'Slope_minmax' 'PeakVal1_error']
+[-3.22893335e-01 -3.10890015e-01 -2.97303695e-01 -2.51547241e-01
+ -2.32340799e-01 -2.20149045e-01 -1.01929809e-01 -5.90869147e-02
+ -5.68689894e-02 -1.51565872e-03  2.44820699e-04  8.87549818e-04
+  1.62809453e-03  5.88044501e-03  3.08823072e-02  7.48223166e-02
+  1.49028163e-01  1.50303598e-01  1.72205007e-01  2.09390513e-01
+  2.53190636e-01  2.90471136e-01  5.04467982e-01]
+0.05567679879878415
+['PeakVal2_error' 'Var_fft' 'Mean_fft' 'Min2_window' 'Max_fft'
+ 'Mean_after' 'Mean_before' 'Slope_minmax' 'Min1_window' 'TimeDiff_minmax'
+ 'PeakTime2_error' 'Mean_diff' 'PeakTime1_error' 'Mean2_window' 'Min_fft'
+ 'Var2_window' 'Var1_window' 'Mean1_window' 'PeakHt1_error' 'Max2_window'
+ 'Max1_window' 'PeakVal1_error' 'PeakHt2_error']
+[-0.40506068 -0.13735923 -0.12654469 -0.0834191  -0.07972577 -0.05330523
+ -0.04550806 -0.0367304  -0.03059295 -0.02106245 -0.0124962  -0.00779717
+ -0.00415606  0.01680055  0.0517194   0.07893387  0.09667394  0.12438212
+  0.25549346  0.3001106   0.31253793  0.46978538  0.52165932]
+
+  ***
+  # Patient = 4
+  0.5255526212437861
+['Slope_minmax' 'Mean_diff' 'PeakVal2_error' 'PeakVal1_error'
+ 'TimeDiff_minmax' 'PeakTime1_error' 'PeakTime2_error' 'Var2_window'
+ 'Var1_window' 'PeakHt1_error' 'Mean_after' 'PeakHt2_error' 'Min1_window'
+ 'Min2_window' 'Mean1_window' 'Mean2_window' 'Max1_window' 'Max_fft'
+ 'Max2_window' 'Var_fft' 'Min_fft' 'Mean_fft' 'Mean_before']
+[-0.51073278 -0.45983313 -0.07655983 -0.03174353 -0.02921936 -0.00312489
+ -0.00146612  0.00817624  0.00827109  0.00851139  0.02316166  0.0322152
+  0.0624591   0.07151295  0.07515156  0.09954743  0.10392947  0.10610496
+  0.11175892  0.15486987  0.2532022   0.37106124  0.48299479]
+0.1476158262594665
+['PeakVal1_error' 'Var_fft' 'Mean_diff' 'Mean_after' 'Max_fft' 'Mean_fft'
+ 'PeakTime1_error' 'TimeDiff_minmax' 'Mean_before' 'Var2_window'
+ 'Var1_window' 'PeakTime2_error' 'PeakHt1_error' 'Min_fft' 'PeakHt2_error'
+ 'PeakVal2_error' 'Min1_window' 'Mean1_window' 'Min2_window' 'Max1_window'
+ 'Mean2_window' 'Slope_minmax' 'Max2_window']
+[-0.12436993 -0.11742    -0.08090504 -0.07247395 -0.06267504 -0.02807914
+ -0.01377367 -0.00904604  0.00843108  0.01131377  0.01189835  0.01379284
+  0.01409142  0.09542643  0.09719433  0.28898511  0.2967708   0.31164649
+  0.33162832  0.33549275  0.37202353  0.38379536  0.39715747]
+0.1127355166601289
+['Min2_window' 'Min1_window' 'Mean_diff' 'Mean2_window' 'Mean1_window'
+ 'TimeDiff_minmax' 'PeakTime2_error' 'Min_fft' 'Max2_window' 'Max1_window'
+ 'Var2_window' 'Var1_window' 'PeakTime1_error' 'PeakHt2_error'
+ 'PeakHt1_error' 'PeakVal2_error' 'Max_fft' 'Mean_after' 'Mean_fft'
+ 'Mean_before' 'Var_fft' 'Slope_minmax' 'PeakVal1_error']
+[-0.08474062 -0.07510892 -0.05150408 -0.05006873 -0.03792398 -0.02620453
+ -0.01262621 -0.00440041 -0.00358222  0.00694283  0.01098693  0.01404546
+  0.01977591  0.05639881  0.09217125  0.12600373  0.1882176   0.19901379
+  0.20605946  0.25051787  0.26984007  0.47008126  0.69090441]
+0.08387043265576791
+['PeakVal2_error' 'Slope_minmax' 'Mean_before' 'PeakHt2_error' 'Min_fft'
+ 'Mean_fft' 'PeakHt1_error' 'Var1_window' 'Var2_window' 'PeakTime2_error'
+ 'Max_fft' 'PeakTime1_error' 'TimeDiff_minmax' 'Mean_after' 'Var_fft'
+ 'Max2_window' 'Mean2_window' 'Max1_window' 'Mean1_window' 'Min2_window'
+ 'Mean_diff' 'Min1_window' 'PeakVal1_error']
+[-0.41028735 -0.36110044 -0.19622029 -0.14774291 -0.1432687  -0.12960259
+ -0.03676367 -0.03091552 -0.02986615 -0.01197598  0.02137638  0.0240311
+  0.0306394   0.07289814  0.0749565   0.07619144  0.14901707  0.15019273
+  0.2290453   0.25092666  0.26911844  0.31601948  0.49908015]
+0.04046135882351625
+['PeakVal2_error' 'Var_fft' 'Mean_after' 'Mean_diff' 'Min1_window'
+ 'Max_fft' 'Min2_window' 'Mean1_window' 'PeakTime2_error' 'Mean_before'
+ 'TimeDiff_minmax' 'PeakTime1_error' 'Mean_fft' 'PeakHt1_error'
+ 'Var2_window' 'Var1_window' 'PeakVal1_error' 'Mean2_window' 'Max1_window'
+ 'Max2_window' 'Min_fft' 'Slope_minmax' 'PeakHt2_error']
+[-7.33881617e-01 -2.20696266e-01 -2.13318873e-01 -1.81229803e-01
+ -1.72423140e-01 -1.31613130e-01 -1.19993693e-01 -7.46909600e-02
+ -4.37109537e-02 -3.20890699e-02 -9.99291378e-03 -7.69398984e-03
+  2.17766485e-04  3.75838481e-02  4.93348440e-02  5.54797999e-02
+  5.76570943e-02  6.14209625e-02  9.79420521e-02  1.31061224e-01
+  2.33680642e-01  2.84764577e-01  2.96217412e-01]
+
+  ***
+  # Patient = 5
+  0.5855753608856413
+['Slope_minmax' 'Mean_diff' 'Mean_after' 'Var_fft' 'PeakVal1_error'
+ 'Max_fft' 'TimeDiff_minmax' 'PeakTime1_error' 'Var2_window'
+ 'PeakTime2_error' 'Var1_window' 'PeakHt2_error' 'PeakVal2_error'
+ 'PeakHt1_error' 'Min2_window' 'Mean2_window' 'Max2_window' 'Min1_window'
+ 'Mean_fft' 'Mean1_window' 'Max1_window' 'Mean_before' 'Min_fft']
+[-0.56385154 -0.49044647 -0.1605206  -0.12081109 -0.08228679 -0.05265693
+ -0.03591291 -0.01267783  0.00077833  0.00407983  0.00552123  0.02292821
+  0.02968937  0.03667412  0.0798462   0.08489178  0.1183958   0.15889425
+  0.17347205  0.18638514  0.21604974  0.32992586  0.3378902 ]
+0.2489753375991187
+['PeakVal1_error' 'Min_fft' 'Mean_before' 'Mean_fft' 'TimeDiff_minmax'
+ 'PeakTime1_error' 'Mean_after' 'Var1_window' 'Var2_window' 'Max_fft'
+ 'PeakTime2_error' 'Var_fft' 'Mean_diff' 'PeakHt1_error' 'PeakHt2_error'
+ 'Min1_window' 'Min2_window' 'Mean1_window' 'Mean2_window' 'Max1_window'
+ 'Slope_minmax' 'Max2_window' 'PeakVal2_error']
+[-0.14773213 -0.11144639 -0.05919079 -0.04461591 -0.01569619 -0.00670924
+ -0.00159834  0.01142493  0.01388133  0.01765563  0.03458709  0.03629302
+  0.05759245  0.07554062  0.11204071  0.23932369  0.24180098  0.27847851
+  0.30235314  0.31472848  0.32184183  0.35063094  0.57004612]
+0.1789026536647778
+['PeakVal2_error' 'Min2_window' 'Min1_window' 'PeakTime2_error'
+ 'TimeDiff_minmax' 'PeakHt1_error' 'Slope_minmax' 'PeakTime1_error'
+ 'Min_fft' 'Mean1_window' 'Var2_window' 'Mean2_window' 'Var1_window'
+ 'Mean_diff' 'Mean_before' 'Max_fft' 'Mean_fft' 'Max2_window' 'Var_fft'
+ 'Mean_after' 'Max1_window' 'PeakHt2_error' 'PeakVal1_error']
+[-0.26779939 -0.09878982 -0.08983744 -0.03303122 -0.00206588  0.00286507
+  0.00673038  0.0145619   0.08588318  0.09389887  0.09605669  0.0969169
+  0.10491326  0.14488692  0.14497224  0.17282914  0.1979564   0.26661958
+  0.2867254   0.28985916  0.29259118  0.35760197  0.54900142]
+0.059932641541733
+['Min2_window' 'Mean2_window' 'Mean_diff' 'Max2_window' 'Var_fft'
+ 'Mean_after' 'Min1_window' 'Max_fft' 'TimeDiff_minmax' 'PeakTime2_error'
+ 'Var2_window' 'Var1_window' 'Mean1_window' 'PeakTime1_error'
+ 'Mean_before' 'Max1_window' 'Mean_fft' 'PeakVal1_error' 'Min_fft'
+ 'PeakHt2_error' 'PeakVal2_error' 'PeakHt1_error' 'Slope_minmax']
+[-0.43489235 -0.34417716 -0.2337178  -0.2203316  -0.1853932  -0.13498126
+ -0.10279501 -0.08220469 -0.06668053 -0.00315828  0.00816927  0.01631399
+  0.01650573  0.03189453  0.09873654  0.10352178  0.10961759  0.13201439
+  0.22795702  0.25816067  0.29415582  0.30800918  0.4041395 ]
+0.04888923021364995
+['PeakHt2_error' 'Min_fft' 'Slope_minmax' 'Max1_window' 'Mean2_window'
+ 'Max2_window' 'Var1_window' 'Var2_window' 'PeakHt1_error' 'Mean1_window'
+ 'Mean_diff' 'Min1_window' 'Min2_window' 'TimeDiff_minmax'
+ 'PeakTime1_error' 'PeakTime2_error' 'Mean_after' 'Mean_before' 'Max_fft'
+ 'Mean_fft' 'Var_fft' 'PeakVal1_error' 'PeakVal2_error']
+[-0.3149622  -0.27347449 -0.27007577 -0.17219278 -0.15454926 -0.11774611
+ -0.07059978 -0.05588401 -0.0525225  -0.05177453 -0.04760812 -0.01921233
+ -0.01672    -0.01405581 -0.0073099   0.02051573  0.07122156  0.11882969
+  0.1415057   0.19588283  0.2689449   0.42620749  0.58048671]
